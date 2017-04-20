@@ -1,4 +1,4 @@
-
+source 'https://rubygems.org'
 # lgremote requires the following gems
 
 gem "dnssd",     ">=2.0"
